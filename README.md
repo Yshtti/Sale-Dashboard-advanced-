@@ -1,4 +1,4 @@
- # advanced Sale data analysis(by using Excel)
+# advanced Sale data analysis(by using Excel)
 I developed a comprehensive Excel project, creating dashboards and tables for data analysis. The process involved data cleaning, preprocessing, and visualization. I used advanced features like macros to automate tasks, demonstrating strong skills in data management.
 
  ##Project Objectvies
@@ -20,7 +20,8 @@ This project's objective is to delivers a fully automated Excel dashboard design
 The dashboard was created by first cleaning and validating the raw data to handle missing values, standardize formats, and ensure consistency. PivotTables were then built to analyze key metrics and answer core business questions. Finally, all elements were integrated into a single dashboard with interactive slicers, enabling dynamic filtering and user-driven exploration.
 
 ##Dash board
-https://github.com/Yshtti/Sale-Dashboard-advanced-/blob/main/Advanced%20sale%20data%20analysis%20dashboard.png
+<img width="1662" height="772" alt="Advanced sale data analysis dashboard" src="https://github.com/user-attachments/assets/0f55517a-e7d8-47e4-82b8-a71e1c8b32b9" />
+
 
 ##Project Insights
 -Profitability Drivers:
@@ -44,3 +45,4 @@ Increase marketing investment and ensure stock availability for the most profita
 Launch targeted marketing campaigns (e.g., email promotions, flash sales) on Wednesdays and Thursdays to maximize revenue on already high-performing days.
 -Optimize the Customer Journey: 
 Analyze the reasons for product returns and take corrective action to reduce the return rate, directly boosting profitability.
+ 
