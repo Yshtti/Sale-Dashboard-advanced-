@@ -1,5 +1,5 @@
 # advanced Sale data analysis(by using Excel)
-##Project Objectives
+## Project Objectives
 
 This project's objective is to deliver a fully automated Excel dashboard designed to answer the client's core business questions:
 
@@ -9,7 +9,7 @@ This project's objective is to deliver a fully automated Excel dashboard designe
 
 -Tracking the evolution and patterns of order statuses.
 
- ##Question (KPIs) 
+ ## Question (KPIs) 
 -What is the total Sales Revenue, Cost, and Net Profit?
 
 -How many Total Orders were placed?
@@ -24,15 +24,15 @@ This project's objective is to deliver a fully automated Excel dashboard designe
 
 -What is the Month-over-Month (MoM) growth rate for key financial metrics?
 
-##Process summary:
+## Process summary:
 The dashboard was created by first cleaning and validating the raw data to handle missing values, standardize formats, and ensure consistency. PivotTables were then built to analyze key metrics and answer core business questions. Finally, all elements were integrated into a single dashboard with interactive slicers, enabling dynamic filtering and user-driven exploration.
 
-##Dash board
+## Dash board
 
 <img width="1662" height="772" alt="Advanced sale data analysis dashboard" src="https://github.com/user-attachments/assets/0f55517a-e7d8-47e4-82b8-a71e1c8b32b9" />
 
 
-##Project Insights
+## Project Insights
 
 -Profitability Drivers:
 
@@ -49,11 +49,11 @@ The high rate of completed orders suggests a reliable fulfillment process. Howev
 
 Sales peak consistently on Wednesdays and Thursdays, revealing key days for targeting promotions and ensuring stock availability. Mobile Money and Bank Transfer are the dominant payment methods.
 
-##Conclusion
+## Conclusion
 
 This dashboard successfully transforms raw sales data into actionable business intelligence. It provides a clear, dynamic, and real-time view of financial performance, customer behavior, and operational effectiveness. The insights reveal not just what is happening, but where the most significant opportunities for improved profitability.
 
-##Recommendations
+## Recommendations
 
 -Protect Profitability: 
 
