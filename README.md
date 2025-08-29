@@ -1,14 +1,15 @@
 # advanced Sale data analysis(by using Excel)
 I developed a comprehensive Excel project, creating dashboards and tables for data analysis. The process involved data cleaning, preprocessing, and visualization. I used advanced features like macros to automate tasks, demonstrating strong skills in data management.
 
-Project Objectives
+##Project Objectives
+
 This project's objective is to deliver a fully automated Excel dashboard designed to answer the client's core business questions:
 
-Identifying top-performing products by revenue, profit, and cost.
+-Identifying top-performing products by revenue, profit, and cost.
 
-Analyzing trends over time for key financial metrics.
+-Analyzing trends over time for key financial metrics.
 
-Tracking the evolution and patterns of order statuses.
+-Tracking the evolution and patterns of order statuses.
 
  ##Question (KPIs) 
 -What is the total Sales Revenue, Cost, and Net Profit?
