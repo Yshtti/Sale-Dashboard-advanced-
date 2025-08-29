@@ -1,6 +1,4 @@
 # advanced Sale data analysis(by using Excel)
-I developed a comprehensive Excel project, creating dashboards and tables for data analysis. The process involved data cleaning, preprocessing, and visualization. I used advanced features like macros to automate tasks, demonstrating strong skills in data management.
-
 ##Project Objectives
 
 This project's objective is to deliver a fully automated Excel dashboard designed to answer the client's core business questions:
