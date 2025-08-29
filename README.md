@@ -3,11 +3,11 @@
 
 This project's objective is to deliver a fully automated Excel dashboard designed to answer the client's core business questions:
 
--Identifying top-performing products by revenue, profit, and cost.
+- Identifying top-performing products by revenue, profit, and cost.
 
--Analyzing trends over time for key financial metrics.
+- Analyzing trends over time for key financial metrics.
 
--Tracking the evolution and patterns of order statuses.
+- Tracking the evolution and patterns of order statuses.
 
  ## Question (KPIs) 
 -What is the total Sales Revenue, Cost, and Net Profit?
